@@ -16,3 +16,9 @@ body{
     margin-bottom: 10px;
 }
 
+.menu{
+    display: flex;
+    list-style-type: none;
+    color: antiquewhite;
+    font-size: 25px;
+}
