@@ -21,4 +21,6 @@ body{
     list-style-type: none;
     color: antiquewhite;
     font-size: 25px;
+    background: mediumpurple;
+    margin-bottom: 10px;
 }
